@@ -99,6 +99,15 @@ Creating a repository is the beginning of a lifecycle, not a one-time setup step
 - responding to contribution and support signals as appropriate
 - archiving or transferring the repository when it is no longer actively maintained or no longer belongs in the organization
 
+## AI assistant guidance
+
+This repository includes repository-level guidance for AI coding assistants:
+
+- `AGENTS.md` provides repository expectations and review guidance for agent-based coding tools
+- `.github/copilot-instructions.md` provides repository-wide instructions for GitHub Copilot
+
+Repository owners should review and update these files as needed so they reflect the actual build, test, documentation, and review expectations of the generated repository.
+
 ## Questions
 
 For questions about repository setup, lifecycle expectations, or placement in `dynatrace-oss`, contact the Open Source Program.
