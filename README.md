@@ -43,7 +43,6 @@ At minimum, review:
 - `CODE_OF_CONDUCT.md`
 - `SECURITY.md`
 - `SUPPORT.md`
-- `AGENTS.md`
 
 If the repository has different contribution, security, or support expectations than the organization defaults, add repository-specific versions.
 
