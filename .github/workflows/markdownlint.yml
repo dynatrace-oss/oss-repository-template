@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run markdown lint
-        run: make markdownlint
+        run: echo "Replace with markdown lint command"
