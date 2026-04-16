@@ -110,4 +110,4 @@ Repository owners should review and update these files as needed so they reflect
 
 ## Questions
 
-For questions about repository setup, lifecycle expectations, or placement in `dynatrace-oss`, contact the Open Source Program.
+For questions about repository setup, lifecycle expectations, or placement in `dynatrace-oss`, contact the [Open Source Program](https://dynatrace.sharepoint.com/sites/DevRel/SitePages/Open-Source-Program-Office.aspx).
