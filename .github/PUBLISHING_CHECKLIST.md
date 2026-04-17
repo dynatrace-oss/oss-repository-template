@@ -12,8 +12,8 @@ Before making this repository public, confirm:
 - [ ] Required automation is enabled
 - [ ] No secrets or sensitive data are present
 - [ ] Visibility and placement are appropriate
-- [ ] Contribution guidance
-- [ ] Issue templates or contact guidance
+- [ ] Has contribution guidance
+- [ ] Has issue templates or contact guidance
 - [ ] Topics/tags are appropriate
 - [ ] Default branch and branch protections are configured appropriately
 - [ ] Repository been reviewed for sensitive, internal-only, customer, or regulated content
