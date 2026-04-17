@@ -85,7 +85,7 @@ The following should usually be present in each repository:
 - `CONTRIBUTING.md` or inherited equivalent
 - `SECURITY.md` or inherited equivalent
 - `SUPPORT.md` or inherited equivalent
-- `AGENT.md` or inherited equivalent 
+- `AGENTS.md` or inherited equivalent 
 - issue templates
 - pull request template
 - baseline CI workflows
