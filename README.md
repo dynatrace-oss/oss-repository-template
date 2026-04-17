@@ -47,7 +47,7 @@ At minimum, review:
 If the repository has different contribution, security, or support expectations than the organization defaults, add repository-specific versions.
 
 ### 4. Confirm licensing
-Each repository must include the correct license for its contents. Do not assume the default is always appropriate. Confirm the intended license before publishing.
+Each repository must include the correct license for its contents. Do not assume the default is always appropriate. Confirm the intended license before publishing. More information on licensing can be found [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 ### 5. Add or validate baseline automation
 At minimum, the repository should include automation appropriate to its contents. This usually includes:
