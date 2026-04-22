@@ -105,7 +105,12 @@ This repository includes repository-level guidance for AI coding assistants:
 - `AGENTS.md` provides repository expectations and review guidance for agent-based coding tools
 - `.github/copilot-instructions.md` provides repository-wide instructions for GitHub Copilot
 
-Repository owners should review and update these files as needed so they reflect the actual build, test, documentation, and review expectations of the generated repository.
+## Repository Exemplars
+
+Looking for some inspiration? Here are a few Dynatrace Open Source repo examples:
+- (https://github.com/dynatrace-oss/dynatrace-managed-mcp)
+- (https://github.com/dynatrace-oss/hash4j)
+- (https://github.com/dynatrace-oss/kimera)
 
 ## Questions
 
