@@ -114,4 +114,4 @@ Looking for some inspiration? Here are a few Dynatrace Open Source repo examples
 
 ## Questions
 
-For questions about repository setup, lifecycle expectations, or placement in `dynatrace-oss`, contact the [Open Source Program](https://dynatrace.sharepoint.com/sites/DevRel/SitePages/Open-Source-Program-Office.aspx).
+For questions about repository setup, lifecycle expectations, or placement in `dynatrace-oss`, head to [Open Source Hub](https://github.com/dynatrace-oss/Open-Source-Hub)
